@@ -1,5 +1,7 @@
 module.exports = function addition(n1, n2) {
-	if (typeof n1 !== number && typeof n2 !== number)
+	if (isNaN(n1) || isNaN(n2)) {
 		throw new TypeError("Numbers required!");
-	return n1 + n2;
+	} else {
+		return n1 + n2;
+	}
 };
