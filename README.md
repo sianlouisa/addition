@@ -21,3 +21,5 @@ addition(1, 2);
 addition("hello", "world!");
 //=> Uncaught TypeError: Numbers required!
 ```
+
+[npmjs.com/package/@sianlouisa/first-package](https://www.npmjs.com/package/@sianlouisa/first-package)
