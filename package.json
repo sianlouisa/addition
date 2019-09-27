@@ -1,9 +1,9 @@
 {
-	"name": "@sianlouisa/first-package",
+	"name": "@sianlouisa/addition",
 	"version": "3.1.0",
 	"description": "Add two numbers together",
 	"license": "MIT",
-	"repository": "sianlouisa/first-package",
+	"repository": "sianlouisa/addition",
 	"main": "index.js",
 	"keywords": [
 		"sianlouisa",
